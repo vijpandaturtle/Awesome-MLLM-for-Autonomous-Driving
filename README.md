@@ -1,5 +1,5 @@
 # Awesome-LLM-for-Autonomous-Driving
-A curated list of resources including papers, articles, videos covering the use of Large Language (including Multimodal) Models for Autonomous Driving. This list will be updated regularly. 
+A curated list of resources including papers, articles, videos covering the use of Large Language (including Multimodal) Models and Foundation models for Autonomous Driving. This list will be updated regularly. 
 
 ## Table of Contents
 - [Updates](#updates)
@@ -12,47 +12,20 @@ A curated list of resources including papers, articles, videos covering the use 
 
 ## Papers
 
-|  Date     |    Institute    | Paper                                                                                                                                                                              | Publication | Code |
+|  Year     |    Institute    | Paper                                                                                                                                                                              | Publication | Code |
 | :----------: | :--------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------: |:---------: |
-| 2017-06 |     Wayve       | [GAIA-1: A Generative World Model for Autonomous Driving](https://arxiv.org/abs/2309.17080)                                                                                            |   NeurIPS | Github |
-| 2018-06 |     OpenAI      | [Improving Language Understanding by Generative Pre-Training](https://www.cs.ubc.ca/~amuham01/LING530/papers/radford2018improving.pdf)                                                 |            | Github |
-| 2018-10 |     Google      | [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://aclanthology.org/N19-1423.pdf)                                                              |    NAACL 
+| 2023 |     Wayve       | [GAIA-1: A Generative World Model for Autonomous Driving](https://arxiv.org/pdf/2309.17080.pdf)                                                                                       |   ICCV | Github |
+| 2023 |     Waymo      | [MotionLM: Multi-Agent Motion Forecasting as Language Modeling](http://khaledrefaat.com/motionlm.pdf)                                                                                  |  ICCV | Github  |
+| 2023 |  Shanghai AI Lab | [Drive Like a Human: Rethinking Autonomous Driving with Large Language Models](https://arxiv.org/pdf/2307.07162.pdf)                                                                  | - | Github |
+| 2023 |The University of Hong Kong | [DriveGPT4: Interpretable End-to-end Autonomous Driving via Large Language Model](https://arxiv.org/pdf/2310.01412.pdf)                                                     |  - | Github |
+| 2023 | Multimedia Lab | [Meta-Transformer: A Unified Framework for Multimodal Learning](https://arxiv.org/pdf/2307.10802.pdf)                                                                       |  - | [Github](https://github.com/invictus717/MetaTransformer) |
 
 # Articles
-If you're interested in the field of LLM, you may find the above list of milestone papers helpful to explore its history and state-of-the-art. However, each direction of LLM offers a unique set of insights and contributions, which are essential to understanding the field as a whole. For a detailed list of papers in various subfields, please refer to the following link (it is possible that there are overlaps between different subfields):
-
-- [LLM-Analysis](paper_list/evaluation.md)
-
-- [LLM-Acceleration](paper_list/acceleration.md)
-
-- [LLM-Application](paper_list/application.md)
+- [LINGO-1: Exploring Natural Language for Autonomous Driving](https://wayve.ai/thinking/lingo-natural-language-autonomous-driving/)
+- [Scaling GAIA-1: 9-billion parameter generative world model for autonomous driving](https://wayve.ai/thinking/scaling-gaia-1/)
 
 # Videos
-If you're interested in the field of LLM, you may find the above list of milestone papers helpful to explore its history and state-of-the-art. However, each direction of LLM offers a unique set of insights and contributions, which are essential to understanding the field as a whole. For a detailed list of papers in various subfields, please refer to the following link (it is possible that there are overlaps between different subfields):
-
-- [LLM-Analysis](paper_list/evaluation.md)
-
-  > Analyse different LLMs in different fields with respect to different abilities
-
-- [LLM-Acceleration](paper_list/acceleration.md)
-
-  > Hardware and software acceleration for LLM training and inference
-
-- [LLM-Application](paper_list/application.md)
-
-  > Use LLM to do some really cool stuff
+- [CVPR'23 Workshop on Autonomous Driving Keynote - Ashok Elluswamy, Tesla](https://www.youtube.com/watch?v=6x-Xb_uT7ts)
 
 # Other useful resources
-If you're interested in the field of LLM, you may find the above list of milestone papers helpful to explore its history and state-of-the-art. However, each direction of LLM offers a unique set of insights and contributions, which are essential to understanding the field as a whole. For a detailed list of papers in various subfields, please refer to the following link (it is possible that there are overlaps between different subfields):
 
-- [LLM-Analysis](paper_list/evaluation.md)
-
-  > Analyse different LLMs in different fields with respect to different abilities
-
-- [LLM-Acceleration](paper_list/acceleration.md)
-
-  > Hardware and software acceleration for LLM training and inference
-
-- [LLM-Application](paper_list/application.md)
-
-  > Use LLM to do some really cool stuff
