@@ -2,12 +2,12 @@
 A curated list of resources including papers, articles, videos covering the use of Large Language (including Multimodal) Models and Foundation models for Autonomous Driving. This list will be updated regularly. 
 
 ## Table of Contents
-- [Updates](#updates)
 - [Table of Contents](#table-of-contents)
 - [Papers](#papers)
 - [Articles](#articles)
 - [Videos](#videos)
-- [Other Useful Resources](#other-useful-resources)
+- [Datasets](#datasets)
+- [Other useful resources](#other-useful-resources)
 - [Contributing](#contributing)
 
 ## Papers
@@ -26,6 +26,9 @@ A curated list of resources including papers, articles, videos covering the use 
 
 # Videos
 - [CVPR'23 Workshop on Autonomous Driving Keynote - Ashok Elluswamy, Tesla](https://www.youtube.com/watch?v=6x-Xb_uT7ts)
+
+# Datasets
+- [Drive on Language: Unlocking the future where autonomous driving meets the unlimited potential of language](https://opendrivelab.github.io/DriveLM/)
 
 # Other useful resources
 
