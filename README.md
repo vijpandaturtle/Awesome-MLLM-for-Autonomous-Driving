@@ -1,4 +1,4 @@
-# Awesome-LLM-for-Autonomous-Driving
+# Awesome-MLLM-for-Autonomous-Driving
 A curated list of resources including papers, articles, videos covering the use of Large Language (including Multimodal) Models and Foundation models for Autonomous Driving. This list will be updated regularly. 
 
 ## Table of Contents
